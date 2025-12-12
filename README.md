@@ -38,7 +38,7 @@ High-speed, stable, and production-ready APIs for cloud bypass and OTT poster ex
 
 **Bypass API Example**
 
-https://primevideo.pbx1bots.workers.dev/?url=
+https://primevideo.pbx1bots.workers.dev/?url=YOUR_LINK
 
 ---
 
