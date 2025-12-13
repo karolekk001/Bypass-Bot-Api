@@ -20,6 +20,8 @@ High-speed, stable, and production-ready APIs for cloud bypass and OTT poster ex
 - **LuxDrive**: `https://pbx1botapi.vercel.app/api/luxdrive?url=`
 - **Nexdrive**:
 `https://pbx1botsapi2.vercel.app/api/nexdrive?url=`
+- **Hblinks**:
+`https://pbx1botsapi2.vercel.app/api/hblinks?url=`
 - **GDFlix**: `https://pbx1botapi.vercel.app/api/gdflix?url=`
 
 ---
