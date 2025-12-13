@@ -17,7 +17,9 @@ High-speed, stable, and production-ready APIs for cloud bypass and OTT poster ex
 - **PixelCDN**: `https://pbx1botapi.vercel.app/api/pixelcdn?url=`  
 - **ExtraFlix**: `https://pbx1botapi.vercel.app/api/extraflix?url=`  
 - **ExtraLink**: `https://pbx1botapi.vercel.app/api/extralink?url=`  
-- **LuxDrive**: `https://pbx1botapi.vercel.app/api/luxdrive?url=`  
+- **LuxDrive**: `https://pbx1botapi.vercel.app/api/luxdrive?url=`
+- **Nexdrive**:
+`https://pbx1botsapi2.vercel.app/api/nexdrive?url=`
 - **GDFlix**: `https://pbx1botapi.vercel.app/api/gdflix?url=`
 
 ---
